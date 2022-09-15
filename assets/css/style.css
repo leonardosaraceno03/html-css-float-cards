@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.clearfix{
+    content: "";
+    display: table;
+    clear: both;
+}
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family:  url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Roboto&display=swap');
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1{
+    color: rgb(226, 63, 98);
+    margin-bottom: 3%;
+}
+header{
+    text-align: center;
+    
+}
+.column {
+    float: left;
+    width: 30%;
+    height: 50%;
+    margin: 1.65%;
+    background-color: rgb(15, 14, 22);
+    margin-top: 50px;
+    color: white;
+    line-height: 30px ;
+    box-shadow: 5px 5px red;
+    
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  img{
+    float: left;
+    width: 110px;
+    height: auto;
+    padding-right: 15px;
+  }
+a{
+    color: aquamarine;
+}
+.name{
+    font-size: 1.15rem;
+    
+}
+
+
