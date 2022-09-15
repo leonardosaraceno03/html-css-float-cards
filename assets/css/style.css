@@ -12,8 +12,8 @@
 body{
     margin-left: 15%;
     margin-right: 15%;
-    font-family:  url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Roboto&display=swap');
-    font-family: 'Nunito Sans', sans-serif;
+    
+    font-family: 'Nunito Sans';
 }
 h1{
     color: rgb(226, 63, 98);
